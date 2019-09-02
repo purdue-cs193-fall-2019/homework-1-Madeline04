@@ -1,3 +1,10 @@
+# Madeline's First CS193 Homework
+
+### A few of my favorite things about CS 193:
+- I get to learn more about GitHub
+- The class teaches skills like how to write a resume for CS majors
+- Class is on Thursdays, which aren't as busy for me as M/W/F
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
